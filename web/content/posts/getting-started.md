@@ -6,6 +6,4 @@ draft: false
 
 #The Indefinite Articles
 
-Welcome to the first post on the site.
-
-Testing updates
+The Indefinite articles are a band so that they don't quite exist yet, there's no music, just a concept. Hopefully there will be more here soon though.
